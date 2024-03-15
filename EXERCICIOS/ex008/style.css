@@ -1,0 +1,25 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: rgb(238, 5, 5);
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: rgb(43, 226, 52);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(100, 205, 237);
+}
+a::after {
+    content: '[Link]' ;
+    color: blue;
+}

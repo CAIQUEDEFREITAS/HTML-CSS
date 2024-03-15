@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+
+    background-image: linear-gradient(to right, #ffffffbe, #ffffff9d);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 15px #80b98096;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+
+
+}
+
+h3 {
+    background-color: #06AA48;
+    text-align: center;
+    color: aliceblue;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
